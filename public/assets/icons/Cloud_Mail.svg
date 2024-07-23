@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 42 42" style="enable-background:new 0 0 42 42;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#005FF9;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFBE3F;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#F3A23A;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#F3C03A;filter:url(#Adobe_OpacityMaskFilter);}
+	.st4{mask:url(#mask0_1_);}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#FFCF38;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#F3823A;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#F3823A;filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st8{mask:url(#mask1_1_);}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#F26C32;}
+</style>
+<path class="st0" d="M27.4,0c-11.8,0-1.2,0-12.9,0C2.9,0,0,2.9,0,14.6c0,6.6,0,1.2,0,12.9C0,39.1,2.9,42,14.6,42
+	c11.8,0,1.2,0,12.9,0S42,39.1,42,27.4s0-1.2,0-12.9C42,2.9,39.1,0,27.4,0z"/>
+<path class="st1" d="M31.4,24.7c0-3-2.5-5.5-5.6-5.5H14.6c-3.1,0-5.6,2.5-5.6,5.5c0,3,2.5,5.5,5.6,5.5h11.2
+	C28.9,30.2,31.4,27.8,31.4,24.7z"/>
+<path class="st2" d="M20.4,10.5c4.2,0,7.6,3.4,7.6,7.6c0,4.2-3.4,7.6-7.6,7.6c-4.2,0-7.6-3.4-7.6-7.6C12.8,13.9,16.2,10.5,20.4,10.5
+	z"/>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="12.8" y="10.5" width="15.2" height="15.2">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="12.8" y="10.5" width="15.2" height="15.2" id="mask0_1_">
+	<path class="st3" d="M14.5,19.3c3,0,5.5,2.5,5.5,5.5c0,3-2.5,5.5-5.5,5.5c-3,0-5.5-2.5-5.5-5.5C9,21.7,11.5,19.3,14.5,19.3z"/>
+</mask>
+<g class="st4">
+	<path class="st5" d="M20.4,10.5c4.2,0,7.6,3.4,7.6,7.6c0,4.2-3.4,7.6-7.6,7.6c-4.2,0-7.6-3.4-7.6-7.6
+		C12.8,13.9,16.2,10.5,20.4,10.5z"/>
+</g>
+<path class="st6" d="M25.7,15c4.2,0,7.6,3.4,7.6,7.6c0,4.2-3.4,7.6-7.6,7.6c-4.2,0-7.6-3.4-7.6-7.6C18.1,18.4,21.5,15,25.7,15z"/>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="12.8" y="10.5" width="15.2" height="15.2">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="12.8" y="10.5" width="15.2" height="15.2" id="mask1_1_">
+	<path class="st7" d="M25.7,15c4.2,0,7.6,3.4,7.6,7.6c0,4.2-3.4,7.6-7.6,7.6c-4.2,0-7.6-3.4-7.6-7.6C18.1,18.4,21.5,15,25.7,15z"/>
+</mask>
+<g class="st8">
+	<path class="st9" d="M20.4,10.5c4.2,0,7.6,3.4,7.6,7.6c0,4.2-3.4,7.6-7.6,7.6c-4.2,0-7.6-3.4-7.6-7.6
+		C12.8,13.9,16.2,10.5,20.4,10.5z"/>
+</g>
+</svg>
